@@ -1,4 +1,2 @@
-a=int(input())
-b=int(input())
-c=float(a/b)
-print("Division of a by b is",c)
+def divide(a,b):
+    return float(a/b)
